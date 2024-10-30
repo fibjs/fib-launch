@@ -1,0 +1,17 @@
+{
+  "name": "fib-launch",
+  "main": "lib/index.js",
+  "version": "1.0.0",
+  "description": "A cross-platform utility designed to manage the automatic launching of applications on system startup.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fibjs/fib-launch.git"
+  },
+  "keywords": ["startup", "autostart", "cross-platform", "windows", "macos", "linux"],
+  "author": "lion",
+  "homepage": "https://github.com/fibjs/fib-launch",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
