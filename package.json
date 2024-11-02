@@ -1,7 +1,7 @@
 {
   "name": "fib-launch",
   "main": "lib/index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cross-platform utility designed to manage the automatic launching of applications on system startup.",
   "repository": {
     "type": "git",
